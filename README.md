@@ -4,4 +4,4 @@
 
 # Deployment link
 
-<a href="https://naveed_bootcamp_assignment1.surge.sh/">static page Hello World</a>
+<a href="https://naveed_bootcamp_assignment1.surge.sh/" target="_blank">static page Hello World</a>
